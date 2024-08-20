@@ -32,5 +32,3 @@
 
 <h2>Conclusão</h2>
 <p>O <strong>BusSpot</strong> se propõe a revolucionar o transporte público em pequenas cidades, proporcionando uma ferramenta moderna, acessível e altamente funcional para os usuários. Com uma arquitetura sólida e um foco na experiência do usuário, este projeto tem o potencial de se expandir e se adaptar às necessidades crescentes do transporte público urbano.</p>
-
-<p>Este README fornece uma visão detalhada do <strong>BusSpot</strong>, abrangendo suas funcionalidades, tecnologias utilizadas, metodologia de desenvolvimento e a arquitetura do sistema. É uma base robusta para qualquer colaborador ou usuário que deseja entender o propósito e a estrutura do projeto.</p>
