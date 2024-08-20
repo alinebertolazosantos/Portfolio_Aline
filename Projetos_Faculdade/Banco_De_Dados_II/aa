@@ -1,1 +1,28 @@
-aa
+Visão Geral
+O BusSpot é um projeto de software focado em melhorar a experiência dos usuários de transporte público em pequenas cidades. O objetivo principal é fornecer aos usuários uma ferramenta que lhes permita visualizar em tempo real a localização dos ônibus de uma determinada linha, além de oferecer informações detalhadas sobre o transporte, como acessibilidade, presença de tecnologias como Wi-Fi e ar-condicionado, e até mesmo permitir a avaliação das condições do veículo.
+
+Funcionalidades
+O aplicativo BusSpot oferece uma série de funcionalidades que facilitam o uso do transporte público:
+
+Localização em Tempo Real: Permite que os usuários vejam a localização dos ônibus em tempo real.
+Informações do Coletivo: Disponibiliza detalhes sobre o veículo, como acessibilidade, Wi-Fi, ar-condicionado, e outras comodidades.
+Avaliação do Transporte: Os usuários podem avaliar as condições do ônibus em termos de limpeza, funcionamento do ar-condicionado, e sistemas de acessibilidade.
+Tabela de Horários: Oferece os horários das linhas de ônibus, incluindo variações para dias úteis e finais de semana.
+Manual do Passageiro: Proporciona informações úteis sobre como proceder em situações problemáticas, como má conduta do motorista, tarifa abusiva, entre outras.
+Tecnologias Utilizadas
+Para garantir a melhor experiência possível e atingir o maior número de dispositivos, o BusSpot foi desenvolvido utilizando uma estratégia multiplataforma. Isso permite que o aplicativo funcione em sistemas operacionais diversos, como Android, iOS e Windows Phone. A linguagem de programação escolhida foi o C#, com suporte ao OpenStreetMap para o mapeamento das rotas.
+
+Desenvolvimento e Metodologia
+O desenvolvimento do BusSpot foi orientado a objetos, utilizando diagramas UML para estruturar e facilitar a implementação do sistema. A gestão do projeto seguiu a metodologia Scrum, dividindo o processo em cinco ciclos de vida: Análise, Desenho, Implementação, Teste, e Implantação.
+
+Arquitetura do Sistema
+O sistema foi desenhado para ser robusto e escalável, integrando diversas camadas que garantem a eficiência e a qualidade do produto final:
+
+Interface do Usuário: Protótipos de interface foram criados para garantir uma experiência de usuário intuitiva e funcional.
+Banco de Dados: O projeto inclui um mapeamento objeto-relacional que assegura uma gestão eficiente dos dados.
+Diagrama de Classes e Sequência: Foram desenvolvidos diagramas para organizar e definir as relações entre as classes e os processos do sistema, utilizando o padrão DTO (Data Transfer Object) para otimizar a comunicação entre diferentes partes do sistema.
+Implementação
+A implementação do BusSpot envolveu o uso de ferramentas modernas e linguagens de programação adequadas para o desenvolvimento de sistemas multiplataforma. O ambiente de desenvolvimento foi configurado para suportar a integração contínua e a realização de testes automatizados, garantindo a qualidade e a confiabilidade do software.
+
+Conclusão
+O BusSpot se propõe a revolucionar o transporte público em pequenas cidades, proporcionando uma ferramenta moderna, acessível e altamente funcional para os usuários. Com uma arquitetura sólida e um foco na experiência do usuário, este projeto tem o potencial de se expandir e se adaptar às necessidades crescentes do transporte público urbano.
