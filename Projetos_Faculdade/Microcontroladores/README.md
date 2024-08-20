@@ -30,5 +30,3 @@
 
 <h2>Conclusão</h2>
 <p>O <strong>Controle de Acesso aos Laboratórios</strong> é uma solução eficaz para garantir a segurança e a organização no acesso aos laboratórios do IFSP - Campus Birigui. Com funcionalidades abrangentes e uma arquitetura sólida, o sistema oferece uma ferramenta poderosa para a gestão de acesso, garantindo que apenas pessoas autorizadas possam acessar as instalações.</p>
-
-<p>Este README oferece uma visão completa do projeto, incluindo seus objetivos, funcionalidades, tecnologias utilizadas e a estrutura de implementação, proporcionando uma base clara e detalhada para entendimento e colaboração futura.</p>
