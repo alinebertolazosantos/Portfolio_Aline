@@ -1,4 +1,4 @@
-<h1>Projeto BusSpot - Banco de Dados II </h1>
+<h1>Projeto BusSpot - Análise e Projeto de Sistemas  </h1>
 
 <h2>Visão Geral</h2>
 <p>O <strong>BusSpot</strong> é um projeto de software focado em melhorar a experiência dos usuários de transporte público em pequenas cidades. O objetivo principal é fornecer aos usuários uma ferramenta que lhes permita visualizar em tempo real a localização dos ônibus de uma determinada linha, além de oferecer informações detalhadas sobre o transporte, como acessibilidade, presença de tecnologias como Wi-Fi e ar-condicionado, e até mesmo permitir a avaliação das condições do veículo.</p>
